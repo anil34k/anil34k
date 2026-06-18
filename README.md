@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anil Kumar V Kali 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Django+Developer&font=Fira%20Code&center=true&width=600&height=50&color=8A2BE2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Django+Developer;Full-Stack+Web+Developer;Always+Learning,+Always+Building;Open+to+Collaboration+%26+Internships&font=Fira%20Code&center=true&width=600&height=50&color=8A2BE2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
